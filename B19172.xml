@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation touching the adjournement of part of Easter terme, and His Majesties proceedings concerning wardships and lyveries</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19172</idno><idno type="EEBO-CITATION">19729042</idno>
+  <idno type="VID">205619</idno>
+  <idno type="EEBO-PROQUEST">2240862765</idno>
+  
+            <idno type="STC">Wing C2710</idno>
+            <idno type="OCLC">19729042</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation touching the adjournement of part of Easter terme, and His Majesties proceedings concerning wardships and lyveries</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at His Majesties court at Oxford, the first day of April, in the nineteenth yeare of His Majesties raigne."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:205619:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ A Proclamation touching the Adjournement of part of <hi>Easter Terme,</hi> and His <hi>Majesties</hi> proceedings concerning <hi>Wardships</hi> and <hi>Lyveries.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS His Majesty, by His Proclamation bearing date at <hi>Oxford</hi> the Seven and twentieth day of <hi>December,</hi> in the Eighteenth year of His Raign, did for the reasons therein expressed, order, appoynt, declare, and publish, that the Courts of <hi>Chancery,</hi> Receipt of <hi>Exchequer,</hi> and of first Fruits, and Tenths, the Court of the <hi>Duchie</hi> of <hi>Lancaster,</hi> Court of <hi>Wards,</hi> and <hi>Lyveries,</hi> and the Court of <hi>White-Hall,</hi> or Court of <hi>Requests</hi> should be, and stand Adjourned, to the City of <hi>Oxford,</hi> for and during the whole Term of S<seg rend="sup">t</seg>. <hi>Hillarie</hi> last past, and should be there held, and continued; As by His said Proclamation more at large may appeare. His Majesty finding the unhappy continuance of the unnaturall Warr raised against him, and taking into His consideration how, and in what places, and in what manner the next ensuing <hi>Ea<g ref="char:EOLhyphen"/>ster</hi> Term with most conveniency for himselfe, and for His good Subjects may be held in a time of so much danger, and distraction, and upon serious weighing of all circumstances fit to be considered of, His Majesty hath resolved, and by this His Royall Proclamation doth Order, Appoynt, Declare, and publish, That the said Court of <hi>Chancery</hi> and all proceedings in that Court, of what kindes or sorts soever, the Receipt of His Majesties <hi>Exchequer,</hi> and of the first Fruits and Tenths, the Court of the <hi>Duchie</hi> of <hi>Lancaster,</hi> Court of <hi>Wards</hi> and <hi>Lyveries,</hi> and the Court of <hi>White-Hall,</hi> or Court of <hi>Requests,</hi> shall be held and continued at His said City of <hi>Oxford</hi> in the County of <hi>Oxford,</hi> where His Majesties residence now is, for the whole Term of <hi>Easter</hi> now next ensuing, upon, and from the Nineteenth day of this in<g ref="char:EOLhyphen"/>stant <hi>April,</hi> untill, and upon the Fifteenth day of <hi>May</hi> next following. And His Majesty hath further resolved for the safety, ease, and releife of His People that have suites in any the Courts of <hi>Kings-Bench, Common-Pleas,</hi> and <hi>Exchequer,</hi> to adjourn part of the next Term of <hi>Easter</hi> now at hand, That is to say, from the first day of the Returne thereof, called <hi>Quindena Paschae</hi> untill the Returne of <hi>Quinque Septimanas Paschae</hi> next ensuing, His Majesty therefore of His especiall favour and clemency, doth hereby Declare, that He is pleased and contented to adjourn part of the said Term of <hi>Easter,</hi> that is to say, from the first day of the Returne of <hi>Quindena Paschae,</hi> unto and upon the said Returne of <hi>Quinque Septi<g ref="char:EOLhyphen"/>manas Paschae,</hi> and that the two last Returnes called <hi>Quinque Septimanas Paschae,</hi> and <hi>Crastino Ascensionis</hi> shall be held at <hi>Westminster</hi> in the usu<g ref="char:EOLhyphen"/>all places where formerly they were held. All which His Majesty signifieth to all, and singular His Officers, Ministers, and loving Subjects of this His Realm, to the intent that they, and every of them who have, or shall have any suite, or other occasion to attend any of the said Courts of <hi>Chancery,</hi> Receipt of <hi>Exchequer,</hi> and of first Fruits and Tenths, <hi>Duchie</hi> of <hi>Lancaster,</hi> Court of <hi>Wardes,</hi> and <hi>Lyveries,</hi> and Court of <hi>Requests</hi> may give their attendance at the said City of <hi>Oxford</hi> as aforesaid, and not elswhere; and that such of them as have or shall have cause or commande<g ref="char:EOLhyphen"/>ment to appear in any of His Majesties said Courts, of <hi>Kings-Bench, Common-Pleas,</hi> and <hi>Exchequer,</hi> at <hi>Westminster,</hi> in or at the said Return of <hi>Quin<g ref="char:EOLhyphen"/>dena Paschae,</hi> or in or at any day or time from and after the said first day of the said Return of <hi>Quindena Paschae,</hi> and before the said Return of <hi>Quin<g ref="char:EOLhyphen"/>que Septimanas Paschae,</hi> may tary at their Dwellings, or where their businesse otherwise shall lye, without resorting to any of the said Courts for that cause, before the said returne of <hi>Quinque Septimanas Paschae</hi> next comming, and that without danger of forfeiture, penalty or contempt, to incurr towards His Majesty in that behalfe. And neverthelesse His Majesties pleasure is, That two of His Instices, that is to say of either Bench, one shall the first day of the Term of <hi>Easter</hi> called <hi>Quindena Paschae,</hi> according to the ancient order of the Lawes, keep the <hi>Essoines</hi> of the said <hi>Quindena Paschae,</hi> at which Return of <hi>Quindena Paschae,</hi> Writs of Adjournment shall be directed to the said Iustices, giving them authority to ad<g ref="char:EOLhyphen"/>journ part of the said Term of <hi>Easter,</hi> that is to say from <hi>Quindena Paschae</hi> untill the said Return of <hi>Quinque Septimanas Paschae</hi> as before is said, and the same Adjournment shall be made in the first day of the said <hi>Quindena Paschae,</hi> commonly called the day of the <hi>Essoines.</hi> Willing and Commanding all and every of His Majesties Officers, Ministers, and Subjects to whom it doth, or shall appertain, to observe, and keep their As<g ref="char:EOLhyphen"/>semblies, and Appearances with all their Returns and Certificates in His Highnesse said Court at <hi>Westminster,</hi> in <hi>Quinque Septimanas Pascha</hi> next, then and there to be holden, and kept, and there to doe their offices and duties in every behalfe, in like manner and form as they should or ought to have done if this present Proclamation had not been had or made, as they will answer the contrary at their Perills. And whereas His Majestie hath by His Declaration in Print formerly declared to all His loving Subjects, That whosoever shall loose His life in this Service for His Majesties defence, the Wardship of his Heire shall be granted by His Majestie without fine or rent to his owne use: So His Majestie doth hereby farther declare, That whosoever shall loose his life in this service for His Majesties defence, the Lyvery or Ousterlemayne of his Heire being then of full age, shall be granted by His Majestie to such Heire without payment of any <hi>Primer seisin, Fine, Arrerages,</hi> or <hi>meane rates</hi> whatsoever. But as for those Heires within age or of full age, whose Ancestors were or shall be slaine in this Rebellious Warre against His Majestie, His Majesties pro<g ref="char:EOLhyphen"/>ceedings in their Wardships and Lyveries shall be according to the strict rules of Iustice and not otherwise, of which His Majesties will and plea<g ref="char:EOLhyphen"/>sure is, That all the Officers of His Majesties Court of Wards and Lyveries doe take notice.</p>
+            <closer>
+               <dateline>Given at His Majesties Court at <hi>OXFORD,</hi>
+                  <date>the first day of <hi>April,</hi> in the nineteenth Yeare of <hi>His Majesties</hi> Raigne.</date>
+               </dateline>
+               <lb/> God Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Oxford by LEONARD LICHFIELD, Printer to the University. 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
